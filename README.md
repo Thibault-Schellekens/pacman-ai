@@ -46,7 +46,7 @@ There, you can observe the differences in execution speed and responsiveness bet
 
 ## Agent Statistics
 
-Located in the `results` folder:  
+Located in the [results](./results/):  
 
 - **stats.txt** – View and compare the scores and execution times of different agents  
 - **AlphaBeta_no_TT_vs_TT/** – Compare performance with and without a transposition table  
